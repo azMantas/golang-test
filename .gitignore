@@ -1,6 +1,8 @@
 *
 !.gitignore
 
-!go.*
-!main.go
+
 !Dockerfile
+!*.go
+!*.yml
+!*.yaml
